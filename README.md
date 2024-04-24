@@ -5,7 +5,7 @@
   
 - 🔭 I’m currently working on **a game**  
   
-- 🌱 I’m currently learning **Go, Next.js, Three.js, C, Assembly, Rust**  
+- 🌱 I’m currently learning **Assembly, C, Go, Next.js, Three.js, Rust**  
   
 - 👯 I’m looking to collaborate on **security and game projects**  
   
