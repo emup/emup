@@ -3,11 +3,11 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emup&label=Profile%20views&color=0080ff&style=flat" alt="emup" /> </p>  
   
-- 🔭 I’m currently working on **a game**  
+- 🔭 I’m currently working on **software reverse engineering**  
   
-- 🌱 I’m currently learning **Assembly, C, Go, Next.js, Three.js, Rust**  
+- 🌱 I’m currently learning **Assembly, C, Python, Go, Rust**  
   
-- 👯 I’m looking to collaborate on **security and game projects**  
+- 👯 I’m looking to collaborate on **security projects**  
   
 - ⚡ Fun fact **I̓ ̧̩͈t̼̟h́in̪̪̋ͯk͍̽ t̲̬h͓e̫͍̓ͬy'̡͐͐r̨̟̭̀̏e̗̘̪ c͈̦̭̆̇̐oͬ͗ͧ͟m̧i̳̗͋͐̕n̴͎g̖̤̦̈̇̌͟ ̱̲͖͆̂ͤtͩ̏o ̺̱͎ͭ͊̓g͎ĕ̠t̠̩͊̃ ͢m͎̪̅̾͡e̜ͬ**  
   
